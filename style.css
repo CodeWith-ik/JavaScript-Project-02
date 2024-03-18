@@ -1,0 +1,36 @@
+
+body{
+    background-color: black;
+}
+
+#container{
+    width: 1000px;
+    height: 1000px;
+    margin: auto;
+    text-align: center;
+}
+
+
+.bulb-off{
+    width: 500px;
+    height: 700px;    
+    background:url('p1.png') no-repeat;
+    margin: auto;
+    margin-top: 50px; 
+    cursor: pointer;
+}
+
+.bulb-on{
+    width: 500px;
+    height: 700px;   
+    background:url('p2.png') no-repeat; 
+    margin: auto;
+    margin-left: 265px;
+    margin-top: 23px;  
+    cursor: pointer; 
+}
+
+
+h1{
+    color: white;
+}
